@@ -54,13 +54,13 @@
 |   |   |   |   |
 |---|---|---|---|
 |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 29 23](https://github.com/omarheeh/albarka/assets/67519670/cb145a76-3ed7-4186-9c4f-6387d40a4a15) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 29 33](https://github.com/omarheeh/albarka/assets/67519670/de2bccae-ac9b-4e67-83ae-93221e305772) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 29 52](https://github.com/omarheeh/albarka/assets/67519670/0b759eeb-b14a-4e53-8571-4b208d8bb4cb) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 29 58](https://github.com/omarheeh/albarka/assets/67519670/e05333f0-65db-42e8-b658-774e290a5ca1) |
-|   |   |   |   |
+|  Regester |  Login |  Profile | Edit Profile  |
 |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 30 04](https://github.com/omarheeh/albarka/assets/67519670/5ef15dc4-752c-41b9-8623-b98c26811cd3) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 30 29](https://github.com/omarheeh/albarka/assets/67519670/61c863fc-d9c2-4ecf-843c-bc9c04b517fb) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 30 38](https://github.com/omarheeh/albarka/assets/67519670/607efd2e-3f4e-42ae-ad4d-c2f7b18e2e42) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 30 47](https://github.com/omarheeh/albarka/assets/67519670/00dd4bed-1945-4ee7-926a-b83980a404ea) |
-|   |   |   |   |
+| Order  |  Favorate |  Profile | Home  |
 | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 30 58](https://github.com/omarheeh/albarka/assets/67519670/c85d7465-ae43-4661-86c5-e020e7d1b70c)  |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 31 04](https://github.com/omarheeh/albarka/assets/67519670/bde4a76e-39c7-4961-aaba-d88e88a6846b) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 31 08](https://github.com/omarheeh/albarka/assets/67519670/c11f9677-3085-454b-aee3-f9e6a889cc0a) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 31 13](https://github.com/omarheeh/albarka/assets/67519670/ee9d236d-8f9c-44bb-abfc-7e842b16b824) |
-|   |   |   |   |
+|  Home |  Category |  Product |  Product |
 |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 31 24](https://github.com/omarheeh/albarka/assets/67519670/e5777a64-18bb-4904-b5fe-98e26b0b450b) | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 31 57](https://github.com/omarheeh/albarka/assets/67519670/09d91422-4557-4af9-ab66-445b44710600)  |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 32 04](https://github.com/omarheeh/albarka/assets/67519670/d91a4ea6-59ce-4143-9240-d1a6b291d216) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 32 08](https://github.com/omarheeh/albarka/assets/67519670/19994e54-6a8d-44bd-8f5e-c4e45efe10dd) |
-|   |   |   |   |
+|  Product |  Bag |  Order |  Order |
 |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 32 18](https://github.com/omarheeh/albarka/assets/67519670/831a4f03-8aae-4f76-a110-fd239957859d) |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 32 43](https://github.com/omarheeh/albarka/assets/67519670/686c8a0e-c7bc-4aa7-9415-753e4fd87f4a) |   |   |
-|   |   |   |   |
+|  Search |  Search |   |   |
 
