@@ -38,8 +38,8 @@
 
 |   |   |   |   |
 |---|---|---|---|
-| ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 51 08](https://github.com/omarheeh/albarka/assets/67519670/ab9a4699-9065-45e3-b91b-303e79099840)  | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 50 22](https://github.com/omarheeh/albarka/assets/67519670/535df8c9-2192-4cb3-998c-431d313c5369)  | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 51 33](https://github.com/omarheeh/albarka/assets/67519670/a09ef759-2d62-4b59-9ada-57064e28e2b7)  |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 09 44](https://github.com/omarheeh/albarka/assets/67519670/af993c1f-e8ca-489a-b00a-ac2a61547d11) |
+| ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 51 08](https://github.com/omarheeh/albarka/assets/67519670/ab9a4699-9065-45e3-b91b-303e79099840)  | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 50 22](https://github.com/omarheeh/albarka/assets/67519670/6a17fe18-eaa6-4c13-aed0-950c04c32efd)  | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 51 33](https://github.com/omarheeh/albarka/assets/67519670/a09ef759-2d62-4b59-9ada-57064e28e2b7)  |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 22 09 44](https://github.com/omarheeh/albarka/assets/67519670/af993c1f-e8ca-489a-b00a-ac2a61547d11) |
 |  Regester |  Login | Profile  |  Edit Profile |
-|   |   |   |   |
+| ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 51 45](https://github.com/omarheeh/albarka/assets/67519670/8e42f20b-13cb-4e0d-877f-9ee630b3f3d9)  | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 51 51](https://github.com/omarheeh/albarka/assets/67519670/6dcb4545-916d-42e8-a68a-9ddce9c34cd1)  |  ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 52 09](https://github.com/omarheeh/albarka/assets/67519670/6f05d37a-112f-4ccd-91f5-6098373e7906) | ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 21 52 15](https://github.com/omarheeh/albarka/assets/67519670/bf67a47e-a762-478a-aa94-1d6e9e256e3e)  |
 |   |   |   |   |
 
